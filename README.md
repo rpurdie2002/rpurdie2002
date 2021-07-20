@@ -1,5 +1,6 @@
-### Hi there 👋
-
+### Hi there! My Name is Riley Purdie
+### I am dual Canadian and USA citizen with the ability to work in either country without sponsorship. I am an ambitious Chemical Engineering student committed to academic excellence to prepare for a professional career in healthcare. I am reliable in working in team-based and independent capacities. I possess strong work ethic, and am eager to learn and apply discipline to any task and achieve mastery over a challenge that contributes to societal health.
+### How to reach me: rpurdie@uwaterloo.ca
 <!--
 **rpurdie2002/rpurdie2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
